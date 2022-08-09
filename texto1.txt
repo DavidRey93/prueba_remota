@@ -1,0 +1,2 @@
+este texto proviene de la rama "rama_local_a_remoto" del repositorio local "nuevo_proyecto" y 
+tiene que ir dirigido al repositorio prueba_remota
